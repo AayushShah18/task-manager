@@ -1,9 +1,10 @@
 import "./App.css";
+import Header from "./Header.jsx";
 
 function App() {
   return (
     <div>
-      <h2>My Task Manager</h2>
+      <Header />
     </div>
   );
 }
